@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.play.w.w.gamecounter.MainActivity">
+
+    <item android:id="@+id/undoTurn" android:title="@string/undo"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>

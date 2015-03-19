@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameCounter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="undo">Undo turn</string>
+    <string name="choosePlayer"> Choose Player</string>
+    <string name="this_round">This round: </string>
+    <string name="last_round">Last Round: </string>
+    <string name="save_done">Save and continue</string>
+    <string name="title_activity_main">Pointscorer</string>
+    <string name="addPoint">Add Points</string>
+    <string name="showGraph">Show Graph</string>
+    <string name="newGame">Start new game</string>
+    <string name="noPlayersError">To add Points, you must start new game</string>
+    <string name="title_activity_add_players">Add Player</string>
+    <string name="setNrPlayer">Set number of players</string>
+    <string name="savePlayers">Save players</string>
+    <string name="name">Name</string>
+    <string name="color">Color</string>
+    <string name="errorRequestCode">Error with request codes</string>
+    <string name="cannot_undo">Nothing to undo!</string>
+
+</resources>
